@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="converted_files" path="converted/" />
+    <cache-path name="temp_files" path="temp/" />
+    <cache-path name="shared_files" path="." />
+</paths>

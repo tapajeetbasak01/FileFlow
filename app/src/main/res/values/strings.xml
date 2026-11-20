@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FileFlow</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_history">History</string>
+    <string name="hero_subtitle">Offline Native Studio</string>
+    <string name="hero_title">Convert Anything, Privately On-Device</string>
+    <string name="select_files_cta">Select Files to Convert</string>
+    <string name="search_tools_placeholder">Search tools (e.g. PNG to JPG, Merge PDF)…</string>
+    <string name="categories_heading">Conversion Categories</string>
+    <string name="recent_conversions_heading">Recent Conversions</string>
+    <string name="no_recent_conversions">No conversions yet. Pick a file or choose a studio tool to get started.</string>
+    <string name="offline_badge">100% Offline Ready</string>
+    <string name="batch_supported">Batch</string>
+    <string name="start_conversion">Convert Now</string>
+    <string name="cancel_conversion">Cancel</string>
+    <string name="save_to_downloads">Save to Downloads</string>
+    <string name="share_file">Share</string>
+    <string name="open_file">Open</string>
+    <string name="clear_history">Clear All</string>
+    <string name="add_files">Add Files</string>
+    <string name="error_no_files">Please select at least one input file.</string>
+</resources>
